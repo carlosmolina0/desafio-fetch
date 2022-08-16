@@ -1,0 +1,26 @@
+* {
+    box-sizing: border-box;
+    width: 100%;
+  }
+  
+  a {
+    border: 1px solid;
+    text-decoration: none;
+    justify-content: center;
+    text-align: center;
+    width: 100%;
+    color: #741d51;
+    padding: 5px;
+    border-radius: 10px;
+  }
+  
+  .precio-curso {
+    font-family: 'poppins';
+    text-align: center;
+  }
+  
+  .titulo-curso {
+    font-family: 'poppins';
+    font-size: larger;
+    text-align: center;
+  }

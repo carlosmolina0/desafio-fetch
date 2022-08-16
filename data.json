@@ -1,0 +1,14 @@
+[
+    {"name": "HTML5, CSS3, JavaScript inicial", "price": "$1.500", "id": "HTML5, CSS3, JavaScript inicial" },
+    {"name": "Curso de Comida Vegetariana", "price": "$1.500", "id": "Curso de Comida Vegetariana" },
+    {"name": "Guitarra para Principiantes", "price": "$1.500", "id": "Guitarra para Principiantes" },
+    {"name": "Huerto en tu casa", "price": "$1.500", "id": "Huerto en tu casa" },
+    {"name": "Decoración para tu hogar", "price": "$1.500", "id": "Decoración para tu hogar" },
+    {"name": "Diseño Web para Principiantes", "price": "$1.500", "id": "Diseño Web para Principiantes" },
+    {"name": "Comida Mexicana", "price": "$1.500", "id": "Comida Mexicana" },
+    {"name": "Estudio Musical en tu casa", "price": "$1.500", "id": "Estudio Musical en tu casa" },
+    {"name": "Cosecha tus frutas y verduras", "price": "$1.500", "id": "Cosecha tus frutas y verduras" },
+    {"name": "Prepara galletas caseras", "price": "$1.500", "id": "Prepara galletas caseras" },
+    {"name": "JavaScript Moderno con ES6", "price": "$1.500", "id": "JavaScript Moderno con ES6" },
+    {"name": "100 Recetas de Comida Natural", "price": "$1.500", "id": "100 Recetas de Comida Natural" }
+]
